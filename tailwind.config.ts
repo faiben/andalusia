@@ -112,7 +112,7 @@ export default {
 				'fade-up': 'fade-up 1s ease-out'
 			},
 			backgroundImage: {
-				'hero-pattern': "linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url('/hero-bg.jpg')",
+				'hero-pattern': "linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('/lovable-uploads/20c77bcc-1062-4643-8c97-e7efb5519751.png')",
 			}
 		}
 	},
